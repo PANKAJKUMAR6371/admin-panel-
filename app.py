@@ -177,7 +177,7 @@ html_content = '''
     function login() {
         const user = document.getElementById('PANKU DON').value;
         const pass = document.getElementById('PANKU@26').value;
-        if(user === "admin" && pass === "1234") {
+        if(user === "PANKU DON" && pass === "PANKU@26") {
             document.getElementById('loginBox').style.display = 'none';
             document.getElementById('mainContent').style.display = 'block';
         } else {
