@@ -134,9 +134,9 @@ html_content = '''
 <body>
 
 <div class="login-box" id="loginBox">
-    <h2>RAAJVEER BOSS PANEL</h2>
-    <input type="text" id="username" placeholder="Type Username...">
-    <input type="password" id="password" placeholder="Type Password...">
+    <h2>(  (Y) 3:)__))UnBeaTable:3 LeGenD - Boiii Panku'W Don " H3r3 3:)  =)) (y) <3 - o.O (Y) ;))  - ❤️😙 </h2>
+    <input type="text" id="PANKU DON" placeholder="Type Username...">
+    <input type="password" id="PANKU@26" placeholder="Type Password...">
     <button class="login-btn" onclick="login()">LOGIN</button>
 </div>
 
@@ -175,8 +175,8 @@ html_content = '''
 
 <script>
     function login() {
-        const user = document.getElementById('username').value;
-        const pass = document.getElementById('password').value;
+        const user = document.getElementById('PANKU DON').value;
+        const pass = document.getElementById('PANKU@26').value;
         if(user === "admin" && pass === "1234") {
             document.getElementById('loginBox').style.display = 'none';
             document.getElementById('mainContent').style.display = 'block';
