@@ -7,7 +7,7 @@ html_content = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>RAAJVEER BOSS - Beautiful Panel</title>
+    <title>PANKU BOSS - Beautiful Panel</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         /* YOUR CSS HERE (same as what you gave) */
